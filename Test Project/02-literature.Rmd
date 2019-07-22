@@ -1,4 +1,0 @@
-# Literature
-
-Here is a review of existing methods. Not required for this test. 
-
