@@ -13,7 +13,7 @@ output: html_document
 
 # Prerequisites
 
-The following is a text to illustrate how Bookdown files can be incorporated into the Gitbook public servers. For XV 
+The following is a text to illustrate how Bookdown files can be incorporated into the Gitbook public servers. For XV . Blafhafs
 
 ```{r eval=FALSE, include = FALSE}
 install.packages("bookdown")
