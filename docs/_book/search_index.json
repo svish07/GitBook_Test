@@ -1,0 +1,3 @@
+[
+["index.html", "A Test Project for XV Chapter 1 Prerequisites", " A Test Project for XV Visvanathan Subramaniam 2019-07-22 Chapter 1 Prerequisites The following is a text to illustrate how Bookdown files can be incorporated into the Gitbook public servers. For XV . Blafhafs Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading #. To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): https://yihui.name/tinytex/. "]
+]
