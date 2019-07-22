@@ -1,4 +1,0 @@
-# Literature
-
-Irrelevant within this context
-
